@@ -1,2 +1,6 @@
-This bot requires Python and a 1440p monitor at the moment
-Might update it in the future to work with 1080p
+This bot watches over the shop in Wizard101 and purchases whatever items you would like it to look out for.
+
+Requirements:
+- Python
+- 1440p monitor (At the moment, might add 1080p later)
+
